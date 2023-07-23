@@ -7,7 +7,7 @@
 import numpy as np
 
 def qN(L):
-    #caculate quantum numbers
+    #Caculate quantum numbers
     a = [1, -1]
     b = [1, -1]
     for n in range(L - 1):
