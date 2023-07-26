@@ -1,8 +1,8 @@
 #Calculate the ground state energy E0 and the first excited state energy E1 
 #for spin-1/2 antiferromagnetic Heisenberg chains of lengths L = 4, 6, 8, 10, 12, respectively 
-#where the hamitonian is defined as H = S_i * S_i+1 in periodic boundary condition
-#The energy gap for each length is defined as ∆ = E1 - E0, and caculate the gap
-#In this file, U(1) symmetry wull be used to simplified calculation
+#where the hamiltonian is defined as H = S_i * S_i+1 in periodic boundary condition
+#The energy gap for each length is defined as ∆ = E1 - E0, and calculate the gap
+#In this file, U(1) symmetry will be used to simplify calculation
 
 import numpy as np
 
